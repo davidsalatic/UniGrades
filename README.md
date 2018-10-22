@@ -12,3 +12,5 @@ Admin, uppon loging in can change the grade system and a few other settings
 
 
 App preview can be seen in the "Screenshots" folder in the Project
+
+Language: Serbian
