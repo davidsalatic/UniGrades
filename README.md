@@ -1,10 +1,5 @@
 # UniGrades
 ## **_A simple app for managing university classes, activities and grades_**
-
-## Demo:<br/>
-![](demo.gif)
-<br/><br/>
-
 #### Users can:
 - add new classes and activities within the class
 - keep track of their grades and achieved points
@@ -14,3 +9,6 @@
 **Admin**, uppon loging in can change the grade system and a few other settings
 
 **Language**: Serbian
+## Demo:<br/>
+![](demo.gif)
+<br/><br/>
