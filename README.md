@@ -2,7 +2,7 @@
 ## Demo:<br/>
 ![](demo.gif)
 <br/><br/>
-**_A simple app for managing university classes, activities and grades_**
+## **_A simple app for managing university classes, activities and grades_**
 
 #### Users can:
 1. add new classes and activities within the class
