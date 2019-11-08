@@ -12,5 +12,4 @@
 <br/><br/><br/>
 **Admin**, uppon loging in can change the grade system and a few other settings
 
-#### Language: 
-Serbian
+**Language**: Serbian
