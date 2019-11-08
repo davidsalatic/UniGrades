@@ -1,7 +1,7 @@
 # UniGrades
-Demo:<br/>
+## Demo:<br/>
 ![](demo.gif)
-<br/>
+<br/><br/>
 A simple app for managing university classes, activities and grades
 
 Users can:
